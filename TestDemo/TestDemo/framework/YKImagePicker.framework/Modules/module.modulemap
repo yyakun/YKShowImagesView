@@ -1,0 +1,6 @@
+framework module YKImagePicker {
+  umbrella header "YKImagePicker.h"
+
+  export *
+  module * { export * }
+}
