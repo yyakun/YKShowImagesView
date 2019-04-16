@@ -3,8 +3,6 @@
 YKShowImagesView *showImageView = [[YKShowImagesView alloc] initWithFrame:CGRectMake(0, 44, [UIScreen mainScreen].bounds.size.width, 400) presentVCDelegate:self showCountRowInView:4 margin:20];
 [self.view addSubview:showImageView];
 
-
-
 使用
 1.##引入头文件
 
